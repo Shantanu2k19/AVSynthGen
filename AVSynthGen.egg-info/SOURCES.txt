@@ -1,0 +1,9 @@
+README.md
+setup.py
+AVSynthGen/GPTApis.py
+AVSynthGen/__init__.py
+AVSynthGen/main.py
+AVSynthGen.egg-info/PKG-INFO
+AVSynthGen.egg-info/SOURCES.txt
+AVSynthGen.egg-info/dependency_links.txt
+AVSynthGen.egg-info/top_level.txt
